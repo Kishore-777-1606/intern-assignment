@@ -1,3 +1,4 @@
+ HEAD
 # Frontend Developer Intern Assignment
 
 Full-stack authentication + dashboard app built with React and Node.
@@ -70,3 +71,6 @@ Demo Credentials
 Create via signup page:
 
 http://localhost:3000/signup
+
+# intern-assignment
+f1087b410731ff74d365fbe0d7ab5a63714becd4
